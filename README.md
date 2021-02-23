@@ -1,9 +1,15 @@
-# Week_8
+# House Price Prediction in Ames, Iowa, USA
 
-# Aim:
 
-#### Use deep learning (MLP) to estimate house prices in USA.
+# About
 
-Data Exploration and Preparation: Explore and visualize characteristics of the provided data. Thenprepare data for predictive modelling.
+This Project is about using deep learning (MLP) to estimate house prices in USA.
 
-Price Estimation: Experiment with the provided partial MLP models, select the best and improveits performance. Report all your experimental work
+**Task 1**: Data Exploration and Preparation 
+* Explore and visualize characteristics of the provided data. 
+* Prepare data for predictive modelling.
+
+**Task 2:** Price Estimation 
+* Experiment with the provided partial MLP models.
+* select the best and improveits performance. 
+* Report all your experimental work.
